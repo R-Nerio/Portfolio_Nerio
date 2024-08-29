@@ -5,6 +5,10 @@ export default {
     extend: {},
   },
   plugins: [],
+  
+}
+
+tailwind.config = {
   darkMode: 'class',
   theme: {
     extend: {
@@ -50,4 +54,3 @@ export default {
     }
   }
 }
-
