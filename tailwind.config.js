@@ -1,14 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-  
-}
-
-tailwind.config = {
   darkMode: 'class',
   theme: {
     extend: {
@@ -54,3 +46,5 @@ tailwind.config = {
     }
   }
 }
+ 
+
